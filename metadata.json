@@ -1,0 +1,6 @@
+{
+  "name": "Cankur Su Tesisat",
+  "description": "Küçükçekmece Cankur Su Tesisat; su kaçağı, tıkanıklık, lavabo, klozet, musluk ve tesisat sorunlarında hızlı ve güvenilir hizmet. Rasim Usta: 0545 802 39 60",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
